@@ -1,0 +1,14 @@
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\bin\Debug\net6.0\mecansime.exe
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\bin\Debug\net6.0\mecansime.deps.json
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\bin\Debug\net6.0\mecansime.runtimeconfig.json
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\bin\Debug\net6.0\mecansime.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\bin\Debug\net6.0\mecansime.pdb
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\mecansime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\mecansime.AssemblyInfoInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\mecansime.AssemblyInfo.cs
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\mecansime.csproj.CoreCompileInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\mecansime.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\refint\mecansime.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\mecansime.pdb
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\mecansime.genruntimeconfig.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mecansime\obj\Debug\net6.0\ref\mecansime.dll

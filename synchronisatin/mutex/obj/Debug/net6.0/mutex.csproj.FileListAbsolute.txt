@@ -1,0 +1,14 @@
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\bin\Debug\net6.0\mutex.exe
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\bin\Debug\net6.0\mutex.deps.json
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\bin\Debug\net6.0\mutex.runtimeconfig.json
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\bin\Debug\net6.0\mutex.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\bin\Debug\net6.0\mutex.pdb
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\mutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\mutex.AssemblyInfoInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\mutex.AssemblyInfo.cs
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\mutex.csproj.CoreCompileInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\mutex.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\refint\mutex.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\mutex.pdb
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\mutex.genruntimeconfig.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\mutex\obj\Debug\net6.0\ref\mutex.dll

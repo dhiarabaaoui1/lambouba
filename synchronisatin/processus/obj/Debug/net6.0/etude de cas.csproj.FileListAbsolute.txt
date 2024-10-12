@@ -1,0 +1,14 @@
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\bin\Debug\net6.0\etude de cas.exe
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\bin\Debug\net6.0\etude de cas.deps.json
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\bin\Debug\net6.0\etude de cas.runtimeconfig.json
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\bin\Debug\net6.0\etude de cas.dll
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\bin\Debug\net6.0\etude de cas.pdb
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\etude de cas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\etude de cas.AssemblyInfoInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\etude de cas.AssemblyInfo.cs
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\etude de cas.csproj.CoreCompileInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\etude de cas.dll
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\refint\etude de cas.dll
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\etude de cas.pdb
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\etude de cas.genruntimeconfig.cache
+C:\Users\dhiar\OneDrive\Bureau\etude de cas\obj\Debug\net6.0\ref\etude de cas.dll

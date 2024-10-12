@@ -1,0 +1,14 @@
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\bin\Debug\net6.0\corbeillle.exe
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\bin\Debug\net6.0\corbeillle.deps.json
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\bin\Debug\net6.0\corbeillle.runtimeconfig.json
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\bin\Debug\net6.0\corbeillle.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\bin\Debug\net6.0\corbeillle.pdb
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\corbeillle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\corbeillle.AssemblyInfoInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\corbeillle.AssemblyInfo.cs
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\corbeillle.csproj.CoreCompileInputs.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\corbeillle.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\refint\corbeillle.dll
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\corbeillle.pdb
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\corbeillle.genruntimeconfig.cache
+C:\Users\dhiar\OneDrive\Bureau\examen\synchronisatin\corbeillle\obj\Debug\net6.0\ref\corbeillle.dll
